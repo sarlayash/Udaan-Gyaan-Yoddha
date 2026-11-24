@@ -1,10 +1,13 @@
-const CACHE_NAME = "udaan-yoddha-shell-v1";
+const CACHE_NAME = "udaan-yoddha-shell-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
   "./assets/logo.svg",
   "./assets/icon.svg",
+  "./assets/icon-192.png",
+  "./assets/icon-512.png",
+  "./assets/apple-touch-icon.png",
   "./assets/show-arena.png",
   "./assets/aptitude-world.png",
   "./assets/dsa-world.png"
