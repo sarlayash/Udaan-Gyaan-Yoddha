@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Udaan Gyaan Yoddha — 30-Day Aptitude & DSA Challenge",
+  "short_name": "Udaan Yoddha",
+  "description": "A daily Aptitude and DSA game-show challenge powered by Kapil and launched by SarlaYash Mission.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080b24",
+  "theme_color": "#101649",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
