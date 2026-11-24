@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Udaan Gyaan Yoddha — 30-Day Aptitude & DSA Challenge",
+  "name": "Udaan Gyaan Yoddha — 30-Day Learning Challenge",
   "short_name": "Udaan Yoddha",
-  "description": "A daily Aptitude and DSA game-show challenge powered by Kapil and launched by SarlaYash Mission.",
+  "description": "A daily 50-question challenge across Aptitude, DSA, Python, Web Development, and SQL. Works offline after the first visit.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
